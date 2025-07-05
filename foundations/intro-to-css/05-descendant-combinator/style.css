@@ -1,0 +1,9 @@
+/* styles.css */
+
+.container p {
+    /* font-family: "Verdana", "DejaVu Sans", serif; */
+    text-align: center;
+    font-size: 20px;
+    color: #ff0000;
+    background-color: #ffff00;
+}
